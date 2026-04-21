@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dervicblog/dervicblog/refs/heads/dervicdev/Hangman-Game/dervicblog-banner.png" alt="dervicblog Profile Banner" width="100%" />
-</div>
-
-<br>
+# Hi there, I'm Dervic! 👋 <img src="https://raw.githubusercontent.com/MartinVerre/martinverre/main/media/hand-wave.gif" width="30px" />
 
 ### 👨‍💻 Professional Profile
 I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My unique perspective comes from years of blending code and design, ensuring that every project is as functional as it is visually stunning.
@@ -25,32 +21,6 @@ I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My uniqu
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Marketing-SEO-4CAF50?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
----
-
-### 🎨 Featured Design & Dev Projects
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="33%">
-        <img src="https://via.placeholder.com/600x400.png?text=Projekat+1+-+UI/UX+Case+Study" alt="Project 1 Mockup" width="100%" style="border-radius: 8px;"/>
-        <br />
-        <p align="center"><b>Minimal Ecommerce</b><br />UI/UX, Frontend</p>
-      </td>
-      <td width="33%">
-        <img src="https://via.placeholder.com/600x400.png?text=Projekat+2+-+Web+App+Redesign" alt="Project 2 Mockup" width="100%" style="border-radius: 8px;"/>
-        <br />
-        <p align="center"><b>Portfolio Platform</b><br />Design System</p>
-      </td>
-      <td width="33%">
-        <img src="https://via.placeholder.com/600x400.png?text=Projekat+3+-+SaaS+Dashboard" alt="Project 3 Mockup" width="100%" style="border-radius: 8px;"/>
-        <br />
-        <p align="center"><b>Admin Dashboard</b><br />Full-stack Dev</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
