@@ -14,9 +14,9 @@ I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My uniqu
 
 | Design & UI/UX | Development | Tools & Others |
 | :--- | :--- | :--- |
-| ![UI/UX](https://shields.io) | ![PHP](https://shields.io) | ![Git](https://shields.io) |
-| ![JSON](https://shields.io) | ![JavaScript](https://shields.io) | ![SEO](https://shields.io) |
-| ![Minimalism](https://shields.io) | ![CSS3](https://shields.io) | ![HTML5](https://shields.io) |
+| ![UI/UX](https://img.shields.io/badge/UI%2FUX-00599C?style=for-the-badge&logo=adobe) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![SEO](https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&logo=google) |
+| ![Minimalism](https://img.shields.io/badge/Minimalism-607D8B?style=for-the-badge&logo=ghost) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 
 ---
 
@@ -27,8 +27,8 @@ I regularly post about web development, design systems, and tech trends.
 ---
 
 ### 📊 My GitHub Journey
-![dervicblog GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+![dervicblog GitHub stats](https://github-readme-stats.vercel.app/api?username=dervicblog&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dervicblog&layout=compact&theme=radical&hide_border=true)
 
 ---
 
