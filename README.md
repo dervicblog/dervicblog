@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://raw.githubusercontent.com/dervicblog/dervicblog/refs/heads/dervicdev/Hangman-Game/dervicblog-banner.png)" alt="dervicblog Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/dervicblog/dervicblog/refs/heads/dervicdev/Hangman-Game/dervicblog-banner.png" alt="dervicblog Profile Banner" width="100%" />
 </div>
 
 <br />
