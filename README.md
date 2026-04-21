@@ -1,42 +1,79 @@
-# Hi there, I'm dervicblog! 👋
+<div align="center">
+  <img src="https://via.placeholder.com/1280x400.png?text=dervic.blog+-+UI/UX+%26+Development+Portfolio" alt="dervicblog Profile Banner" width="100%" />
+</div>
+
+<br />
+
+# Hi there, I'm dervicblog! 👋 <img src="https://raw.githubusercontent.com/MartinVerre/martinverre/main/media/hand-wave.gif" width="30px" />
 
 ### 👨‍💻 Professional Profile
 I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My unique perspective comes from years of blending code and design, ensuring that every project is as functional as it is visually stunning.
 
-- 🌐 **My Hub**: [dervic.blog](https://dervic.blog) – Personal portfolio and blog focused on web development.
-- ✍️ **Content Creator**: Since 2012, I've been documenting my journey in tech, from logo design to advanced front-end development.
-- 🚀 **Core Expertise**: UI/UX Design, Front-end Architecture, Minimalism, and Digital Sustainability.
+- 🌐 **My Hub**: [dervic.blog](https://dervic.blog) – Personal portfolio and blog.
+- 🚀 **Core Expertise**: UI/UX Design, Front-end Architecture, Minimalism.
 - 💡 **Philosophy**: "I believe in design that serves a purpose and code that stays clean."
 
 ---
 
 ### 🛠 Tech Stack & Skills
-
-| Design & UI/UX | Development | Tools & Others |
-| :--- | :--- | :--- |
-| ![UI/UX](https://img.shields.io/badge/UI%2FUX-00599C?style=for-the-badge&logo=adobe) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![SEO](https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&logo=google) |
-| ![Minimalism](https://img.shields.io/badge/Minimalism-607D8B?style=for-the-badge&logo=ghost) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-UI%2FUX-blue?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marketing-SEO-4CAF50?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ---
 
-### 📝 Latest from dervic.blog
-I regularly post about web development, design systems, and tech trends.
-- 👉 [Read my latest articles here](https://dervic.blog/blog)
+### 🎨 Featured Design & Dev Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="33%">
+        <img src="https://via.placeholder.com/600x400.png?text=Projekat+1+-+UI/UX+Case+Study" alt="Project 1 Mockup" width="100%" style="border-radius: 8px;"/>
+        <br />
+        <p align="center"><b>Minimal Ecommerce</b><br />UI/UX, Frontend</p>
+      </td>
+      <td width="33%">
+        <img src="https://via.placeholder.com/600x400.png?text=Projekat+2+-+Web+App+Redesign" alt="Project 2 Mockup" width="100%" style="border-radius: 8px;"/>
+        <br />
+        <p align="center"><b>Portfolio Platform</b><br />Design System</p>
+      </td>
+      <td width="33%">
+        <img src="https://via.placeholder.com/600x400.png?text=Projekat+3+-+SaaS+Dashboard" alt="Project 3 Mockup" width="100%" style="border-radius: 8px;"/>
+        <br />
+        <p align="center"><b>Admin Dashboard</b><br />Full-stack Dev</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📊 My GitHub Journey
-![dervicblog GitHub stats](https://github-readme-stats.vercel.app/api?username=dervicblog&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dervicblog&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dervicblog&show_icons=true&theme=tokyonight&hide_border=true&hide=grade" alt="dervicblog GitHub stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dervicblog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
 ### 📫 Let's Collaborate
-- 📧 **Email**: [info@dervic.blog](mailto:info@dervic.blog)
-- 🚀 **CodePen**: [dervicblog on CodePen](https://codepen.io/dervicblog)
-- 🖥 **Portfolio**: [dervic.blog/about](https://dervic.blog/about)
+<p align="center">
+  <a href="mailto:info@dervic.blog"><img src="https://img.shields.io/badge/Email-info%40dervic.blog-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://codepen.io/dervicblog"><img src="https://img.shields.io/badge/CodePen-dervicblog-AEAEAE?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen" /></a>
+  <a href="https://dervic.blog/about"><img src="https://img.shields.io/badge/Portfolio-dervic.blog-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
-*“Turning complex problems into simple, beautiful, and intuitive designs since 2012.”* ☕
+<div align="center">
+  <i>“Turning complex problems into simple, beautiful, and intuitive designs since 2012.”</i> ☕
+</div>
