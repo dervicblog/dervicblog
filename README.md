@@ -32,9 +32,9 @@ I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My uniqu
 
 ### 📫 Let's Collaborate
 <p align="center">
-  <a href="mailto:info@dervic.blog"><img src="https://img.shields.io/badge/Email-info%40dervic.blog-233742?labelColor=b4cddd&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://dervic.blog"><img src="https://img.shields.io/badge/Blog-dervic.blog-233742?labelColor=b4cddd&style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
-  <a href="https://dervic.blog/rss.xml"><img src="https://img.shields.io/badge/RSS-Feed-233742?labelColor=b4cddd&style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feed" /></a>
+  <a href="mailto:info@dervic.blog"><img src="https://img.shields.io/badge/Email-info%40dervic.blog-b4cddd?labelColor=233742&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://dervic.blog"><img src="https://img.shields.io/badge/Blog-dervic.blog-b4cddd?labelColor=233742&style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://dervic.blog/rss.xml"><img src="https://img.shields.io/badge/RSS-Feed-b4cddd?labelColor=233742&style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feed" /></a>
 </p>
 
 ---
