@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/dervicblog/dervicblog/refs/heads/dervicdev/Hangman-Game/dervicblog-banner.png" alt="dervicblog Profile Banner" width="100%" />
 </div>
 
-<br />
-
-# Hi there, I'm Dervic! 👋 <img src="https://raw.githubusercontent.com/MartinVerre/martinverre/main/media/hand-wave.gif" width="30px" />
+<br>
 
 ### 👨‍💻 Professional Profile
 I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My unique perspective comes from years of blending code and design, ensuring that every project is as functional as it is visually stunning.
