@@ -17,7 +17,7 @@ I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My uniqu
 
 ### 📊 My GitHub Journey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dervicblog&layout=compact&bg_color=b4cddd&text_color=233742&icon_color=00c3bf&title_color=233742&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dervicblog&layout=compact&bg_color=233742&text_color=b4cddd&icon_color=b4cddd&title_color=b4cddd&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
