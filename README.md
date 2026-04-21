@@ -1,11 +1,14 @@
-# Hi there, I'm Dervic! 👋 <img src="https://raw.githubusercontent.com/MartinVerre/martinverre/main/media/hand-wave.gif" width="30px" />
+# Hi, I'm Dervic! 👋 <img src="https://raw.githubusercontent.com/MartinVerre/martinverre/main/media/hand-wave.gif" width="30px" />
 
 ### 👨‍💻 Professional Profile
 I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My unique perspective comes from years of blending code and design, ensuring that every project is as functional as it is visually stunning.
 
-- 🌐 **My Hub**: [dervic.blog](https://dervic.blog) – Personal portfolio and blog.
+- 🌐 **My Blog**: [dervic.blog](https://dervic.blog) – Personal portfolio and blog.
 - 🚀 **Core Expertise**: UI/UX Design, Front-end Architecture, Minimalism.
 - 💡 **Philosophy**: "I believe in design that serves a purpose and code that stays clean."
+- 🤝 **Collaboration**: Open to freelance opportunities and project collaborations.
+- 🔭 **Currently focusing on**: Digital sustainability and enhancing web performance.
+- 📍 **Based in**: Bužim, available for remote work worldwide.
 
 ---
 
