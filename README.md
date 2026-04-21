@@ -22,7 +22,7 @@ I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My uniqu
 
 ### 📝 Latest from dervic.blog
 I regularly post about web development, design systems, and tech trends.
-- 👉 [Read my latest articles here](https://dervic.blog)
+- 👉 [Read my latest articles here](https://dervic.blog/blog)
 
 ---
 
@@ -34,7 +34,7 @@ I regularly post about web development, design systems, and tech trends.
 
 ### 📫 Let's Collaborate
 - 📧 **Email**: [info@dervic.blog](mailto:info@dervic.blog)
-- 🚀 **CodePen**: [dervicblog on CodePen](https://codepen.io)
+- 🚀 **CodePen**: [dervicblog on CodePen](https://codepen.io/dervicblog)
 - 🖥 **Portfolio**: [dervic.blog/about](https://dervic.blog/about)
 
 ---
