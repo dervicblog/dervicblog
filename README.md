@@ -1,5 +1,5 @@
 ### 👨‍💻 Hi, I'm Dervic! 👋
-I am a **UI/UX Web Designer** and **Full-stack Developer** from Bužim. My unique perspective comes from years of blending code and design, ensuring that every project is as functional as it is visually stunning.
+**UI/UX Web Designer** and **Full-stack Developer** from Bužim. My unique perspective comes from years of blending code and design, ensuring that every project is as functional as it is visually stunning.
 
 ---
 
